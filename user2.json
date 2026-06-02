@@ -1,0 +1,9 @@
+{
+  "displayName": "ana456",
+  "city": "Guadalajara",
+  "state": "JAL",
+  "zipCode": "44100",
+  "peanutAllergy": false,
+  "eggAllergy": true,
+  "dairyAllergy": false
+}

@@ -1,0 +1,11 @@
+package com.projects.diningreview.exceptions;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+@ResponseStatus(HttpStatus.NOT_FOUND)
+public class DiningReviewNotFoundException extends RuntimeException {
+    public DiningReviewNotFoundException() {
+        super("Dining Review Not Found");
+    }
+}

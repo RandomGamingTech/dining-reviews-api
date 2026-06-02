@@ -1,0 +1,9 @@
+{
+  "displayName": "david123",
+  "restaurantId": 1,
+  "peanutScore": 5,
+  "eggScore": 4,
+  "dairyScore": 3,
+  "commentary": "Muy buen servicio",
+  "reviewStatus": "PENDING"
+}

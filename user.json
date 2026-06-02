@@ -1,0 +1,9 @@
+{
+  "displayName": "david123",
+  "city": "San Luis Potosi",
+  "state": "SLP",
+  "zipCode": "78200",
+  "peanutAllergy": true,
+  "eggAllergy": false,
+  "dairyAllergy": true
+}
